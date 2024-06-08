@@ -37,4 +37,4 @@ The project follows a structured approach, including data preprocessing, model t
 ## 🏁 Results
 ![image](https://github.com/ARKnajmi/IrisFlowerImageClassification/assets/149140186/f7788b12-add2-49b1-a5e8-54dc0ad62d55)
 
-The project achieves 75% accuracy on the test dataset, showcasing Decision tree can decently classfying the Iris Image dataset.
+The project achieved 75% accuracy on the test dataset, which shows that the decision tree can classify the Iris Image dataset pretty well.
