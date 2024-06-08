@@ -4,6 +4,10 @@
 
 This project focuses on using Decision Tree to classify iris flower images. The goal is to accurately categorize iris flowers into different species based on their images.
 
+You can use this Dataset from Kaggle: [Iris Computer Vision](https://www.kaggle.com/datasets/jeffheaton/iris-computer-vision),
+or use the one on this repo
+
+
 ## 🚀 Project Overview
 The project follows a structured approach, including data preprocessing, model training, evaluation, optimization, and testing. Here are the key steps:
 
